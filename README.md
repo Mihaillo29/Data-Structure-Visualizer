@@ -93,13 +93,16 @@ This project is open-source and available under the [MIT License](LICENSE).
 **Demo Screenshots:**
 
 #### Sorting Animation
-![Sorting](https://example.com/sorting.gif)
+![ezgif-33acc2102d88d3](https://github.com/user-attachments/assets/05424c38-88dd-4876-b8e9-97381b997aae)
+
 
 #### Stack Operations
-![Stack](https://example.com/stack.gif)
+![ezgif-30b603d00a850f](https://github.com/user-attachments/assets/5141cb43-cda8-4868-95ca-adf611f97977)
+
 
 #### Queue Operations
-![Queue](https://example.com/queue.gif)
+![ezgif-3e6893721aeb7d](https://github.com/user-attachments/assets/edfcc38d-fbfb-4671-8156-15f9d2d40143)
+
 
 ---
 Start visualizing data structures and sorting algorithms today!
